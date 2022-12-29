@@ -1,2 +1,2 @@
-# TaskFromCodeWars
+# TasksFromCodeWars
  CodeWarsTutorials
