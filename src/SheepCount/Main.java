@@ -1,4 +1,10 @@
-package cz.josef.janda.CountSheep;
+/***************************************************************************
+ *It count true or false in array
+ *  @param sum is for final count
+ * @param arrayOfSheeps ia array for sheeps
+ */
+
+package SheepCount;
 
 public class Main {
     public static void main(String[] args) {

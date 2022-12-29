@@ -1,3 +1,8 @@
+/***************************************************************************
+ *It finds out whether the number is odd or even
+ *  @param number is for number as you like know
+ */
+
 package EvenOdd;
 
 public class Main {
