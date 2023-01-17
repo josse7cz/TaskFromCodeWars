@@ -10,5 +10,6 @@ public class Main {
     public static String convert(boolean b){
         System.out.println(b);
         return String.valueOf(b);
+
     }
 }

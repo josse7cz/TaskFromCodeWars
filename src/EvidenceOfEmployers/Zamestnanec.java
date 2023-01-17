@@ -5,7 +5,10 @@ public class Zamestnanec {
 	private String prijmeni;
 	private String adresa;
 	private String narozen;
-	
+
+	public String toString() {
+		return jmeno + prijmeni + adresa + narozen;
+	}
 	public Zamestnanec(){}
 	
 	public Zamestnanec(String jmeno,String prijmeni,String adresa,String narozen){
@@ -13,6 +16,7 @@ public class Zamestnanec {
 		this.prijmeni = prijmeni;
 		this.adresa = adresa;
 		this.narozen = narozen;
+
 
 	}
 	public String getJmeno() {
